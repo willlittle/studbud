@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/willlittle/studbud/issues"
   },
-  "homepage": "https://github.com/willlittle/studbud#readme"
+  "homepage": "https://github.com/willlittle/studbud#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
